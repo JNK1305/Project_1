@@ -1,0 +1,16 @@
+PROJECT INFORMATION
+===================
+
+Live Website: https://fanciful-longma-8d13c5.netlify.app/
+
+Figma Design: https://www.figma.com/design/hzNljrAjFLN4IaiICk3TP7/project2?node-id=0-1&p=f&t=oF2fmrcjijdHleYl-0
+
+GitHub Repo: https://github.com/JNK1305/Project_1
+
+GitHub Account: JNK1305
+
+Description:
+
+This website was created based on the Figma design and is hosted on Netlify.
+
+The project demonstrates responsive web design using HTML and CSS.
